@@ -492,6 +492,7 @@
 				48BF4D0D1982174000A4F9B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		48BF4D0E1982174000A4F9B7 /* Build configuration list for PBXNativeTarget "JKTEDCryptTests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +501,7 @@
 				48BF4D101982174000A4F9B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
